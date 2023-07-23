@@ -61,7 +61,7 @@ a {
     align-items: center;
 }
 
-.cart-sum::after {
+.cart-sum::before {
     position: absolute;
     content: '5';
     color: #FFF;
